@@ -1,6 +1,6 @@
 
 # the file that we run to start the website
-from website import create_app
+from src import create_app
 
 
 #dunder main
